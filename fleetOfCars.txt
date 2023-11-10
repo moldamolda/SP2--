@@ -1,0 +1,6 @@
+Registrering: BC123 | Maerke: Suzuki | Model: Swift | Antal døre: 3 | Km.pr.ltr: 16 | partikelfilter? true
+---------------------------------------------------------------------------------------
+
+Registrering: AD7654 | Maerke: Jaguar | Model: XJR | Antal døre: 5 | Batterikapacitet: 400 Max km range: 12
+---------------------------------------------------------------------------------------
+
